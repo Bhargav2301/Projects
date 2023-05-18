@@ -19,7 +19,7 @@ Scikit-learn
 Instructions
 To run the Jupyter notebook:
 
-Clone the repository: git clone https://github.com/Bhargav2301/Data-Science-Resume-Classifier.git
+Clone the repository: git clone [https://github.com/Bhargav2301/Data-Science-Resume-Classifier.git](https://github.com/Bhargav2301/Projects/blob/main/Resume_analysis.ipynb)
 Navigate into the project directory: cd Data-Science-Resume-Classifier
 Open the notebook in Jupyter: jupyter notebook Resume_Classification.ipynb
 Run the cells in the notebook
